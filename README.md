@@ -7,4 +7,4 @@ The Objective of this assignment was to design a Relational Database Management 
 Microsoft SQL Server
 
 ## Entity Relationship Diagram:
-![image](https://user-images.githubusercontent.com/48358569/89702950-af629d80-d978-11ea-835e-2fbdb9916095.png)
+![ER Diagram](https://user-images.githubusercontent.com/48358569/89703026-99091180-d979-11ea-8fae-89e7f7f028a4.jpg)
