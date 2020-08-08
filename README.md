@@ -13,3 +13,6 @@ Microsoft SQL Server
 1. List the email address, contact number and the payment type that a particular organiser (“John”) uses when paying for the booking.
 2. List tour departure date, tour leader name and contact number, sorted according to the tour start date.
 3. List the SiteDesc of a particular site and its corresponding country code and duration for a particular itinerary where the duration of visit is more than 5 hours.
+
+## Contributors:
+Matthias Gan, Hannah Leong, Ezra Ho, Lim Shermann
